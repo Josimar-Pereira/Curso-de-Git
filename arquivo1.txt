@@ -1,1 +1,2 @@
 Primeirissimo arquivo para treinar Git para teste.
+Primeiro arquivo para treinar Git.
