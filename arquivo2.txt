@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Segundo arquivo do curso Git.
+=======
+Segundo arquivo para estudar Git.
+>>>>>>> e63e00d (Segundo arquivo adicionado)
